@@ -1,0 +1,7 @@
+{
+  "schema": "srd55-library-v1",
+  "kind": "species",
+  "name": "Luminari",
+  "speed": 30,
+  "size": "Medium"
+}
